@@ -70,8 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Sreenshot URLS of tables
-<img src="https://i.postimg.cc/FkXrXvy6/Screenshot-2023-10-30-at-9-26-07-AM.png" />
-<img src="https://i.postimg.cc/jCyqQWKY/Screenshot-2023-10-30-at-9-26-32-AM.png" />
+<img src="https://i.postimg.cc/FkXrXvy6/Screenshot-2023-10-30-at-9-26-07-AM.png" style="height:200px;width:200px"/>
+<img src="https://i.postimg.cc/jCyqQWKY/Screenshot-2023-10-30-at-9-26-32-AM.png" style="height:200px;width:200px"/>
 
 [url=https://postimg.cc/FkXrXvy6][img]https://i.postimg.cc/FkXrXvy6/Screenshot-2023-10-30-at-9-26-07-AM.png[/img][/url]
 
